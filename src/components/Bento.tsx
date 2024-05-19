@@ -1,5 +1,4 @@
 import AboutBlock from "./AboutBlock";
-import Block from "./Block";
 import HeaderBlock from "./HeaderBlock";
 import LocationBlock from "./LocationBlock";
 import MessageListBlock from "./MessageListBlock";
